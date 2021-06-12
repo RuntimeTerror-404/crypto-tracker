@@ -18,7 +18,10 @@ export default function Home({ filteredCoins }) {
     <Layout>
       <div className="coin_app">
         <div className="github_link">
-          <a href="https://github.com/RuntimeTerror-404" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/mohit-parashar-2849201b8/"
+            target="_blank"
+          >
             designed and developed by Mohit Parashar
           </a>
         </div>
