@@ -11,6 +11,52 @@ a {
   text-decoration: none;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+}
+
+body {
+  background-color: #101012;
+}
+
+.coin_app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  color: #fff;
+}
+
+/* Layout CSS */
+.layout {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+.coin_logo {
+  height: 200px;
+  width: 200px;
+}
+
+.github_link {
+  margin-bottom: 15px;
+  height: 30px;
+  width: auto;
+  background-color: rgb(7, 10, 37);
+  color: rgb(241, 255, 255);
+  border: 2px solid rgb(0, 7, 14);
+  padding: 12px;
+  border-radius: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
