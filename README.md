@@ -1,3 +1,7 @@
+![SharedScreenshot](https://user-images.githubusercontent.com/58487973/122634317-1c97a100-d0fb-11eb-85e3-aef9ef52361a.jpg)
+
+live website : https://crypto-tracker-coral.vercel.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
